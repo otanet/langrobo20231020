@@ -6,13 +6,8 @@ https://langrobo.connpass.com/event/297097/
 
 10/10 124
 
-時間: 2023年10月20日 12:20-13:30 zoomへのリンク： https://ritsumei-ac-jp.zoom.us/j/91897872296?pwd=RUcyUFFUY3c2ZXcxellEVHl2ZzFJUT09 ミーティングID: 918 9787 2296 パスコード: 280355 Slidoへのリンク：https://app.sli.do/event/fGQ1BZUUcGGyisyXQEDtsK 
-
+時間: 2023年10月20日 12:20-13:30 
 出席登録
-
-(イベント開始時間の2時間前から終了時間まで、参加者のみに公開されます)
-
-イベントの説明
 
 Language and Robotics 研究会について
 
@@ -39,13 +34,8 @@ https://trail.t.u-tokyo.ac.jp/ja/post/23-09-13-rsj-fm-based-robosys/
 タイムスケジュール
 
 時間12:20 - 12:25オープニング12:25 - 13:10講演（45分）13:10 - 13:25QA（15分）13:25 - 13:30クロージング
-
 質問形式
-
 質問の受付方法は未定ですが、口頭もしくはzoomのチャット欄、Slidoを用いて受け付ける予定です。
-
 口頭で質問される際は各自でミュートを外していただき、質問を行ってください。
-
 zoomもしくはSlidoによるチャットでの質問に対する発表者の回答について追加の質問がありましたら、適宜zoomのチャット欄または口頭にて反応をいただけると幸いです。
-
 注意事項
